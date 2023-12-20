@@ -1,6 +1,7 @@
-package P01DataStructuresAdvanced_B_2_3_AVL_Trees;
+package P02B_Trees_2_3_TreesAndAVL_TreesExercise;
 
 public class Main {
+
     public static void main(String[] args) {
 
     }

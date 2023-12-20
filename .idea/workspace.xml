@@ -5,25 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f19de5ab-3e2f-4d5a-a461-c145f7c6e392" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/P01DataStructuresAdvancedB23AVLTrees/01 Data Structures Advanced - B-Trees - 2-3 Trees and AVL Trees/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P01DataStructuresAdvancedB23AVLTrees/01 Data Structures Advanced - B-Trees - 2-3 Trees and AVL Trees/.idea/Data Structures Advanced.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P01DataStructuresAdvancedB23AVLTrees/01 Data Structures Advanced - B-Trees - 2-3 Trees and AVL Trees/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P01DataStructuresAdvancedB23AVLTrees/01 Data Structures Advanced - B-Trees - 2-3 Trees and AVL Trees/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P01DataStructuresAdvancedB23AVLTrees/01 Data Structures Advanced - B-Trees - 2-3 Trees and AVL Trees/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P01DataStructuresAdvancedB23AVLTrees/01 Data Structures Advanced - B-Trees - 2-3 Trees and AVL Trees/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P01DataStructuresAdvancedB23AVLTrees/01 Data Structures Advanced - B-Trees - 2-3 Trees and AVL Trees/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P01DataStructuresAdvancedB23AVLTrees/01 Data Structures Advanced - B-Trees - 2-3 Trees and AVL Trees/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P01DataStructuresAdvancedB23AVLTrees/01 Data Structures Advanced - B-Trees - 2-3 Trees and AVL Trees/Data-Structures-Advanced-B-2-3-AVL-Trees-Skeleton/Data-Structures-Advanced-B-2-3-AVL-Trees.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P01DataStructuresAdvancedB23AVLTrees/01 Data Structures Advanced - B-Trees - 2-3 Trees and AVL Trees/Data-Structures-Advanced-B-2-3-AVL-Trees-Skeleton/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P01DataStructuresAdvancedB23AVLTrees/01 Data Structures Advanced - B-Trees - 2-3 Trees and AVL Trees/Data-Structures-Advanced-B-2-3-AVL-Trees-Skeleton/src/main/java/AVL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P01DataStructuresAdvancedB23AVLTrees/01 Data Structures Advanced - B-Trees - 2-3 Trees and AVL Trees/Data-Structures-Advanced-B-2-3-AVL-Trees-Skeleton/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P01DataStructuresAdvancedB23AVLTrees/01 Data Structures Advanced - B-Trees - 2-3 Trees and AVL Trees/Data-Structures-Advanced-B-2-3-AVL-Trees-Skeleton/src/main/java/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P01DataStructuresAdvancedB23AVLTrees/01 Data Structures Advanced - B-Trees - 2-3 Trees and AVL Trees/Data-Structures-Advanced-B-2-3-AVL-Trees-Skeleton/src/test/java/AVLTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P01DataStructuresAdvancedB23AVLTrees/01 Data Structures Advanced - B-Trees - 2-3 Trees and AVL Trees/Data-Structures-Advanced-B-2-3-AVL-Trees-Skeleton/target/classes/AVL.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P01DataStructuresAdvancedB23AVLTrees/01 Data Structures Advanced - B-Trees - 2-3 Trees and AVL Trees/Data-Structures-Advanced-B-2-3-AVL-Trees-Skeleton/target/classes/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P01DataStructuresAdvancedB23AVLTrees/01 Data Structures Advanced - B-Trees - 2-3 Trees and AVL Trees/Data-Structures-Advanced-B-2-3-AVL-Trees-Skeleton/target/classes/Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P01DataStructuresAdvancedB23AVLTrees/01 Data Structures Advanced - B-Trees - 2-3 Trees and AVL Trees/Data-Structures-Advanced-B-2-3-AVL-Trees-Skeleton/target/test-classes/AVLTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P02B_Trees_2_3_TreesAndAVL_TreesExercise/AVL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P02B_Trees_2_3_TreesAndAVL_TreesExercise/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P02B_Trees_2_3_TreesAndAVL_TreesExercise/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P02B_Trees_2_3_TreesAndAVL_TreesExercise/TwoThreeTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P02B_Trees_2_3_TreesAndAVL_TreesExercise/main/Hierarchy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P02B_Trees_2_3_TreesAndAVL_TreesExercise/main/HierarchyNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P02B_Trees_2_3_TreesAndAVL_TreesExercise/main/IHierarchy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P01DataStructuresAdvanced_B_2_3_AVL_Trees/AVL.java" beforeDir="false" afterPath="$PROJECT_DIR$/P01B_2_3_AVL_Trees/AVL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P01DataStructuresAdvanced_B_2_3_AVL_Trees/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/P01B_2_3_AVL_Trees/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P01DataStructuresAdvanced_B_2_3_AVL_Trees/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/P01B_2_3_AVL_Trees/Node.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
