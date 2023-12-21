@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f19de5ab-3e2f-4d5a-a461-c145f7c6e392" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/P02B_Trees_2_3_TreesAndAVL_TreesExercise/AVL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P02B_Trees_2_3_TreesAndAVL_TreesExercise/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P02B_Trees_2_3_TreesAndAVL_TreesExercise/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P02B_Trees_2_3_TreesAndAVL_TreesExercise/TwoThreeTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P02B_Trees_2_3_TreesAndAVL_TreesExercise/main/Hierarchy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P02B_Trees_2_3_TreesAndAVL_TreesExercise/main/HierarchyNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P02B_Trees_2_3_TreesAndAVL_TreesExercise/main/IHierarchy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P01DataStructuresAdvanced_B_2_3_AVL_Trees/AVL.java" beforeDir="false" afterPath="$PROJECT_DIR$/P01B_2_3_AVL_Trees/AVL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P01DataStructuresAdvanced_B_2_3_AVL_Trees/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/P01B_2_3_AVL_Trees/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/P01DataStructuresAdvanced_B_2_3_AVL_Trees/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/P01B_2_3_AVL_Trees/Node.java" afterDir="false" />
-    </list>
+    <list default="true" id="f19de5ab-3e2f-4d5a-a461-c145f7c6e392" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
