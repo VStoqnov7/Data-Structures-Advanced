@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f19de5ab-3e2f-4d5a-a461-c145f7c6e392" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/P05HashTablesSetsAndMaps/HashTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P05HashTablesSetsAndMaps/KeyValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P05HashTablesSetsAndMaps/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P06HashTablesSetsAndMapsExercise/Battlecard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P06HashTablesSetsAndMapsExercise/CardType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P06HashTablesSetsAndMapsExercise/IArena.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P06HashTablesSetsAndMapsExercise/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P06HashTablesSetsAndMapsExercise/RoyaleArena.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
