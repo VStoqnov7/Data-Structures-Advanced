@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f19de5ab-3e2f-4d5a-a461-c145f7c6e392" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/P06HashTablesSetsAndMapsExercise/RoyaleArena.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/P07Augmentation/FlatMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P07Augmentation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P07Augmentation/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P07Augmentation/PersonCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P07Augmentation/PersonCollectionImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P07Augmentation/PersonCollectionSlowImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P07Augmentation/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P07Augmentation/ShoppingCentre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P07Augmentation/oldShoppingCentre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P07Augmentation/oldShoppingCentre2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
